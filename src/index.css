@@ -1,0 +1,26 @@
+@import "tailwindcss";
+* {
+  color: white;
+}
+body {
+  background-color: black;
+}
+
+#tasklist::-webkit-scrollbar {
+  display: none;
+}
+#one {
+  color: red;
+}
+#two {
+  color: yellow;
+}
+#three {
+  color: green;
+}
+#four {
+  color: blue;
+}
+#five {
+  color: red;
+}
